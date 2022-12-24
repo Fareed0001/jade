@@ -1,0 +1,2 @@
+if($(window).width()<480){$(".jade-div, .name-div").removeClass("col-md-3").addClass("col-6");$(".class-image-div").css("display","none");$(".forth-icon").removeClass("fa-2x").addClass("fa-lg");$(".about-div, .connect-div").removeClass("col-md-4").addClass("col-6");$("").removeClass("col-md-2").addClass("col-6");footer-first-col1
+$(".education-div").removeClass("col-md-8").addClass("col-12");$(".competence-div").removeClass("col-md-4").addClass("col-12")}else{$(".class-image-div").css("display","block")}
