@@ -1,8 +1,3 @@
-  $(".first-div").fadeOut();
-
-  $(".first-div").fadeIn(2000);
-
-
 if ($(window).width() < 480) {
   $(".jade-div").removeClass("col-md-3").addClass("col-12");
   $(".class-image-div").css("display", "none");
